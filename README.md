@@ -7,5 +7,5 @@ The final write-up is included in: <br>
 * **report.pdf** 
 
 The Python code is broken out into two Jupyter notebooks focusing on first step analysis and simulation:<br>
-* **analysis.ipynb** <br>
-* **simulation.ipynb**
+* **code/first_step_analysis.ipynb** <br>
+* **code/simulation.ipynb**
